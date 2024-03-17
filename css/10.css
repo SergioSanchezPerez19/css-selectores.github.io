@@ -1,0 +1,11 @@
+a[href^='http'] {
+    color: red;
+}
+
+a[href$='.com'] {
+    text-transform: uppercase;
+}
+
+input[type='tel'] {
+    border: 1px solid yellow;
+}
